@@ -4,6 +4,8 @@ A production-shaped backend template built on **[NestJS](https://nestjs.com)** r
 
 Because it's real NestJS, everything non-trivial here — modules, controllers, providers, guards, pipes — follows patterns straight from [NestJS's own documentation](https://docs.nestjs.com). The only Fastify-specific things to know about are called out below.
 
+> **New to Node.js, NestJS, or backend development in general?** Read **[docs/GUIDE.md](docs/GUIDE.md)** first — it explains every concept used in this project from scratch, then walks through the codebase file by file.
+
 ## Stack
 
 - **Framework**: NestJS 12 on `@nestjs/platform-fastify`
